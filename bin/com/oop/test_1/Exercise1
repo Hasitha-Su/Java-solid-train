@@ -1,0 +1,15 @@
+Have an understanding about class and object concept
+
+1. Create a Class name "TestStudent1" with a main() method.
+2. Implement a class Student (State: id,name,age) in the same Class file.
+3. Create a new object of class Student and print id and name.
+
+4. Assign name of student by reference variable.
+
+5. Initialization through method
+
+	1. Create a new object S2.
+	2. Implement a method to set values by reference in Student class.
+	3. Implement a method to display set values.
+
+6. Initialization through a constructor
