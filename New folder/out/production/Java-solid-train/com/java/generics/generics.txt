@@ -1,0 +1,8 @@
+Generics
+
+1.why generics
+2.generics methods
+3.generics classes
+4.bounded type parameters
+5.compile time type checking
+    ex: you will not add string to a int array list by mistake. since it will throw the error on compilation
