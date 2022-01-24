@@ -1,0 +1,13 @@
+Generics
+
+1.why generics
+2.generics methods
+3.generics classes
+4.bounded type parameters
+5.compile time type checking
+    Generics stop run time errors at compile time
+    ex: you will not add string to a int array list by mistake. since it will throw the error on compilation
+
+
+collections can have any type of a object and that presents us with a type safety problem
+most of the time we want our list to have only one type of objects. generics solves this problem

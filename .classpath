@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="New folder/src"/>
+	<classpathentry excluding="packages_example/|4. Creating Objects/|code formatting/" kind="src" path="OCA"/>
+	<classpathentry kind="src" path="OCA/4. Creating Objects"/>
+	<classpathentry kind="src" path="OCA/code formatting"/>
+	<classpathentry kind="src" path="OCA/packages_example"/>
+	<classpathentry kind="src" path="Pass By Value"/>
+	<classpathentry kind="src" path="Servlet-JSP-Demo/src/main/java"/>
+	<classpathentry kind="src" path="String Immutability"/>
+	<classpathentry kind="src" path="Threads"/>
+	<classpathentry kind="output" path="New folder/bin"/>
+</classpath>
